@@ -107,3 +107,5 @@ Response (200):
 	]
 }
 ```
+
+![LISTGO](https://user-images.githubusercontent.com/65952319/111709810-3f70aa00-88ad-11eb-83e0-cf4e6d891071.gif)
