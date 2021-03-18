@@ -3,6 +3,8 @@ By Tai, Tom, Crystal, Kenneth, & Al.
 
 ## ListGo is a personal media journal, where you can search for your favourite films, music, and books to add to your recommendation list.
 
+![LISTGO](https://user-images.githubusercontent.com/65952319/111709810-3f70aa00-88ad-11eb-83e0-cf4e6d891071.gif)
+
 ### How we will work:
 We will adopt Agile team principles as a loose guideline for our roles. Each day someone will have the opportunity to step into Scrum Master. Each member has an obligation to communicate regularly and will take on 'Vibes lead'. Tasks will be broken down to small and clear areas of ownership. We will track our tasks via ticketing and assigning fibonacci values to represent their difficulty.
 
@@ -107,5 +109,3 @@ Response (200):
 	]
 }
 ```
-
-![LISTGO](https://user-images.githubusercontent.com/65952319/111709810-3f70aa00-88ad-11eb-83e0-cf4e6d891071.gif)
